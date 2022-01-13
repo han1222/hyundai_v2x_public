@@ -1,0 +1,4 @@
+string movementName
+int16 signalGroupID
+string eventState
+int32 minEndTime

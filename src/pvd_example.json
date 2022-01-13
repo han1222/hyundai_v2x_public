@@ -1,0 +1,24 @@
+{
+    "startVector":{
+        "long":1268938140,
+        "lat":375786400,
+        "heading":0,
+        "speed":{
+            "transmisson":"unavailable",
+            "speed":10
+        }
+    },
+    "snapshots":[
+        {
+            "thePosition":{
+                "long":1268938140, 
+                "lat":375786400,
+                "heading":0,
+                "speed":{
+                    "transmisson":"unavailable",
+                    "speed":10
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,6 @@
+string debubStateString
+int32 debugStateInt
+bool canPass
+float64 stopLineDistance
+float64 predDistance
+float64 preddis_minus_dis
